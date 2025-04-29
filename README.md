@@ -1,4 +1,4 @@
-##Game Review Page
+## Game Review Page
 This project is a static website developed using HTML and CSS, designed to showcase a game review page. It serves as a demonstration of front-end development skills, focusing on layout design and responsive styling.​
 
 ##Project Structure
