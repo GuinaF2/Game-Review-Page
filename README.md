@@ -10,7 +10,7 @@
 
 - Clean and organized code structure.
 
-- Demonstrates proficiency in HTML and CSS.​
+- Demonstrates proficiency in HTML.​
 
 ## Getting Started
 To view the project locally:
