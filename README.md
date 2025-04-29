@@ -1,21 +1,21 @@
 ## Game Review Page
-This project is a static website developed using HTML and CSS, designed to showcase a game review page. It serves as a demonstration of front-end development skills, focusing on layout design and responsive styling.​
+This project is a static website developed using **HTML** and **CSS**, designed to showcase a game review page. It serves as a demonstration of front-end development skills, focusing on layout design and responsive styling.​
 
-##Project Structure
+## Project Structure
 - `index.html`: The main HTML file containing the structure of the webpage.
 
 - `style.css`: The CSS file responsible for styling the HTML elements.
 
 - `README.md`: This file, providing an overview of the project.​
 
-##Features
+## Features
 - Responsive design suitable for various screen sizes.
 
 - Clean and organized code structure.
 
 - Demonstrates proficiency in HTML and CSS.​
 
-##Getting Started
+## Getting Started
 To view the project locally:
 
 1. Clone the repository:​
