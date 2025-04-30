@@ -3,8 +3,6 @@
 ## Project Structure
 - `index.html`: The main **HTML** file containing the structure of the webpage.
 
-- `style.css`: The **CSS** file responsible for styling the **HTML** elements.
-
 - `README.md`: This file, providing an overview of the project.​
 
 ## Features
@@ -12,7 +10,7 @@
 
 - Clean and organized code structure.
 
-- Demonstrates proficiency in HTML and CSS.​
+- Demonstrates proficiency in HTML.​
 
 ## Getting Started
 To view the project locally:
